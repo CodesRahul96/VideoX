@@ -1,8 +1,5 @@
-# React + Vite
+Movix React-vite App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Project Link: https://reactmovix.netlify.app/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Laptop-2-1280x800](https://user-images.githubusercontent.com/118264222/219931899-8f9f82f6-c6f3-459a-934d-b55140d8c507.png)

@@ -1,8 +1,7 @@
 import React from "react";
 import {
-    FaFacebookF,
     FaInstagram,
-    FaTwitter,
+    FaGithub ,
     FaLinkedin,
 } from "react-icons/fa";
 
@@ -21,28 +20,19 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+                The VideoX, a video streaming service that supported high-definition content delivery, scaling to accommodate over 50,000 concurrent users and reducing buffering time by 35% through advanced caching techniques.
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
-                        
-                        <a href="https://www.facebook.com/rahul.misal.9849912"><FaFacebookF /></a>
-                    </span>
-                    <span className="icon">
-                        <a href="https://instagram.com/codez_rahul?igshid=NGVhN2U2NjQ0Yg=="><FaInstagram /></a>
+                        <a href="https://www.instagram.com/codesrahul/#"><FaInstagram /></a>
                         
                     </span>
                     <span className="icon">
-                        <a href="https://twitter.com/techholicrahul"><FaTwitter /></a>
+                        <a href="https://github.com/CodesRahul"><FaGithub /></a>
                         
                     </span>
                     <span className="icon">
-                        <a href="http://www.linkedin.com/in/coder-rahul"><FaLinkedin /></a>
+                        <a href="https://www.linkedin.com/in/codesrahul"><FaLinkedin /></a>
                         
                     </span>
                 </div>

@@ -1,7 +1,7 @@
 import React from "react";
 import { useSelector } from "react-redux";
 
-import "./style.scss";
+import "./genres.scss";
 
 const Genres = ({ data }) => {
     const { genres } = useSelector((state) => state.home);

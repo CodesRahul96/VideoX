@@ -7,8 +7,7 @@ import {
 } from "react-icons/fa";
 
 import ContentWrapper from "../contentWrapper/ContentWrapper";
-
-import "./style.scss";
+import "./footer.scss";
 
 const Footer = () => {
     return (

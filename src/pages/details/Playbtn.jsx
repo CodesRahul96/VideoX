@@ -28,7 +28,7 @@ export const PlayIcon = () => {
                 strokeLinecap="round"
                 strokeLinejoin="round"
                 strokeMiterlimit="10"
-                cx="106.8"
+                cx="106.8" 
                 cy="106.8"
                 r="103.3"
             ></circle>

@@ -21,7 +21,7 @@ const Header = () => {
     useEffect(() => {
         window.scrollTo(0, 0);
     }, [location]);
-
+ 
     const controlNavbar = () => {
         if (window.scrollY > 200) {
             if (window.scrollY > lastScrollY && !mobileMenu) {

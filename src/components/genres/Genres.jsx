@@ -21,3 +21,4 @@ const Genres = ({ data }) => {
 };
 
 export default Genres;
+ 

@@ -13,4 +13,4 @@ const Img = ({ src, className }) => {
     );
 };
 
-export default Img;
+export default Img; 

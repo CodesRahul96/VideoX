@@ -28,7 +28,7 @@ const HeroBanner = () => {
   return (
     <div className="heroBanner">
       <div className="backdrop-img">
-        <Img src={background} />
+        <Img src={background} /> 
       </div>
 
       <div className="opacity-layer"></div>

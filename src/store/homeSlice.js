@@ -20,4 +20,4 @@ export const homeSlice = createSlice({
 // Action creators are generated for each case reducer function
 export const { getApiConfiguration, getGenres } = homeSlice.actions;
 
-export default homeSlice.reducer;
+export default homeSlice.reducer; 
